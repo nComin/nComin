@@ -1,4 +1,4 @@
-### Hiii! I am Nali 💕
+### Hiii! I am Nali ♡
 
 
 - 🌱 I’m currently learning front-end
