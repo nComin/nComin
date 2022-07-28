@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning front-end
-- 😄 pronouns: she/her
 - 📚 I love languages and literature  
 
 <div align="center">
