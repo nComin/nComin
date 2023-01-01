@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning front-end
-- 📚 Languages and literature  
+- 📚 Language and literature  
 
 <div align="center">
   <a href="https://github.com/nComin">
